@@ -1,2 +1,19 @@
-# front-end-docs
-Front-end documentation for CLEO.one
+# CLEO.one Front-end Documentation
+
+* [Creating new app](./create-new-app.md)
+* [es6 vs typescript](./es6-vs-typescript.md)
+* [proptypes vs flow](./proptypes-vs-flow.md)
+* [State management](./state-management.md)
+* [Route management](./route-management.md)
+* [API - HTTP calls(Ajax)](./api.md)
+* [Authentication](./auth.md)
+* [Styling](./styling.md)
+* [Git hooks](./git-hooks.md)
+* [Linters (ESLint & Style Lint) ](./linters.md)
+* [Forms & validations](./forms-and-validations.md)
+* [Ramda (practical functional library)](./ramda.md)
+* [SVG](./svg.md)
+* [Date utility library](./date.md)
+* [Internationalization](./internationalization.md)
+* [Modals - popups](./modals.md)
+* [Notification(toast)](./notification.md)
