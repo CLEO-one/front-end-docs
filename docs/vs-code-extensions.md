@@ -1,6 +1,6 @@
-# VS Code recommended extensions
+# Visual Studio Code recommended extensions
 
-Just `copy` and `paste` following snippet on Visual Studio Code terminal
+Just `copy` and `paste` following snippet on VS Code terminal
 
 ```
 code --install-extension abusaidm.html-snippets
