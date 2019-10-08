@@ -1,5 +1,5 @@
 
-# ES5 vs Typescript
+# ES6 vs Typescript
 
 We use only ES6 at the moment. Learn ES6 from following resources if you feel your ES6 skills are poor.
 
