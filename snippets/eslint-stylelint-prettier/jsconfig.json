@@ -2,8 +2,8 @@
     "compilerOptions": {
       "baseUrl": ".",
       "paths": {
-        "*": ["./src/*"] // for nextjs projects "*": ["./*"] 
+        "*": ["./src/*"] // for Next.js projects "*": ["./*"] 
       }
     },
-    "exclude": ["node_modules", "build"] // for nextjs projects ["node_modules", "build", "out", ".next"]
+    "exclude": ["node_modules", "build"] // for Next.js projects ["node_modules", "build", "out", ".next"]
   }
