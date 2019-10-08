@@ -1,7 +1,7 @@
 # CLEO.one Front-end Documentation
 
 * [Creating new app](./docs/create-new-app.md)
-* [VS Code recommended extensions](./docs/vs-code-entensions.md)
+* [VS Code recommended extensions](./docs/vs-code-extensions.md)
 * [ES6 vs Typescript](./docs/es6-vs-typescript.md)
 * [Folder structure](./docs/folder-structure.md)
 * [proptypes vs flow](./docs/proptypes-vs-flow.md)
