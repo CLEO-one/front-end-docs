@@ -10,4 +10,3 @@ There are bunch of predefined functions in it such as:
 * [isEmpty](https://ramdajs.com/docs/#isEmpty)
 * [pick](https://ramdajs.com/docs/#pick)
 * [uniq](https://ramdajs.com/docs/#uniq)
- ... and more
