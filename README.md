@@ -17,6 +17,6 @@
 * [Ramda (practical functional library)](./docs/ramda.md)
 * [SVG](./docs/svg.md)
 * [Date utility library](./docs/date.md)
-* [Internationalization](./docs/internationalization.md)
+* [Internationalization (i18n)](./docs/internationalization.md)
 * [Modals - popups](./docs/modals.md)
 * [Notification(toast)](./docs/notification.md)
