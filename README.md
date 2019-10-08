@@ -18,5 +18,5 @@
 * [SVG](./docs/svg.md)
 * [Date utility library](./docs/date.md)
 * [Internationalization (i18n)](./docs/internationalization.md)
-* [Modals - popups](./docs/modals.md)
+* [Modals, popups, custom dropdown menus](./docs/modals.md)
 * [Notification(toast)](./docs/notification.md)
