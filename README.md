@@ -11,7 +11,7 @@
 * [Authentication](./docs/auth.md)
 * [Styling](./docs/styling.md)
 * [Git commits](./docs/git-commits.md)
-* [Git commit hooks](./docs/git-hooks.md)
+* [Git pre-commit hooks](./docs/git-hooks.md)
 * [Linters (ES-lint & Style-lint & Prettier) ](./docs/linters.md)
 * [Forms & validations](./docs/forms-and-validations.md)
 * [Ramda (practical functional library)](./docs/ramda.md)
