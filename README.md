@@ -12,7 +12,7 @@
 * [Styling](./docs/styling.md)
 * [Git commits](./docs/git-commits.md)
 * [Git commit hooks](./docs/git-hooks.md)
-* [Linters (ESLint & Style Lint) ](./docs/linters.md)
+* [Linters (ES-lint & Style-lint & Prettier) ](./docs/linters.md)
 * [Forms & validations](./docs/forms-and-validations.md)
 * [Ramda (practical functional library)](./docs/ramda.md)
 * [SVG](./docs/svg.md)

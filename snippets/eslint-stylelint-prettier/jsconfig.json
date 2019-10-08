@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "*": ["./src/*"] // for nextjs projects "*": ["./*"] 
+      }
+    },
+    "exclude": ["node_modules", "build"] // for nextjs projects ["node_modules", "build", "out", ".next"]
+  }
