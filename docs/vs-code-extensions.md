@@ -16,7 +16,7 @@ code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension mgmcdermott.vscode-language-babel
 code --install-extension naumovs.color-highlight
 code --install-extension robertohuertasm.vscode-icons
-code --install-extension shinnn.stylelint
+code --install-extension stylelint.vscode-stylelint
 code --install-extension waderyan.gitblame
 code --install-extension shd101wyy.markdown-preview-enhanced
 ```
