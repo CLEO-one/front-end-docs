@@ -63,6 +63,7 @@ This is same as pages but __ONLY__ for Next.js projects as Next.js as it's own p
 
 ### do
 - create folder for each component and pages/views
+- create files with `CamelCase`
 - give a `PascalCase` name to your component folder
 - create an index.js file and do your component implementation
 - create a `styled.js` file andcreate your styled components there
