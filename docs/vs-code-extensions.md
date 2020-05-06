@@ -19,4 +19,5 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension stylelint.vscode-stylelint
 code --install-extension waderyan.gitblame
 code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension formulahendry.auto-rename-tag
 ```
